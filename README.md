@@ -24,7 +24,8 @@ A custom dataset was curated and manually annotated using **Label Studio** to ge
 * **Speed:** Achieved a highly efficient inference speed of **~15ms per image**, ensuring seamless real-time video stream processing.
 
 🛠️ How to Run
-**1. Install Dependencies:**
+
+1. Install Dependencies:
 ```bash
 pip install ultralytics torch torchvision
 
