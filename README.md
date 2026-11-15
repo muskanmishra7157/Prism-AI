@@ -30,7 +30,7 @@ bash
 
 pip install ultralytics torch torchvision
 
-3. Run Inference using custom weights (best.pt):
+2. Run Inference using custom weights (best.pt):
 
 Python
 from ultralytics import YOLO
