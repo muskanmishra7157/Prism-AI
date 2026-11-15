@@ -26,10 +26,11 @@ A custom dataset was curated and manually annotated using **Label Studio** to ge
 🛠️ How to Run
 
 1. Install Dependencies:
-```bash
+bash
+
 pip install ultralytics torch torchvision
 
-2. Run Inference using custom weights (best.pt):
+3. Run Inference using custom weights (best.pt):
 
 Python
 from ultralytics import YOLO
